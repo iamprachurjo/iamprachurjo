@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm <a href="https://www.linkedin.com/in/iamprachurjo">Prachurjo Barmon</a></h1>
+  <h1>👋 Hi, I'm <a href="https://www.linkedin.com/in/iamprachurjo">Prachurjo</a></h1>
   
   <p><b>Self-Directed Computer Science Scholar & Full-Stack Systems Developer</b></p>
 
