@@ -71,7 +71,7 @@ Rather than following a traditional path, I am executing an aggressive, self-des
 ```gdb
 +-----------------------------------------------------------------------+
 |  PROJECT 01: Distributed Key-Value Store                              |
-|  Live Link: https://neo-market-bd.vercel.app                                             |
+|  Live Link:  https://neo-market-bd.vercel.app                         |
 +-----------------------------------------------------------------------+
 |  • Built a sharded, fault-tolerant key-value database in Go.          |
 |  • Implemented Raft consensus with log compaction & partition recovery|
